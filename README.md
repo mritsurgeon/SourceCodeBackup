@@ -130,5 +130,6 @@ The primary purpose of this forked project is to enhance the original CLI by add
 ![image](https://github.com/mritsurgeon/SourceCodeBackup/assets/59644778/52a967b0-7992-42d9-814b-e59ea715dc24)
 
 ### Job Run Action History
-![image](https://github.com/mritsurgeon/SourceCodeBackup/assets/59644778/e225dd9f-083d-4bce-83d0-d9076ee44301)
+![image](https://github.com/mritsurgeon/SourceCodeBackup/assets/59644778/e1e98594-ee24-4b33-b284-0b8c58bd5501)
+
 
